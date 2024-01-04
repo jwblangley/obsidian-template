@@ -1,0 +1,9 @@
+{
+  "useMarkdownLinks": true,
+  "useTab": false,
+  "showInlineTitle": false,
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,6 @@
+# Obsidian workspace
+.obsidian/workspace.json
+
+# Obsidian plugins
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/data.json

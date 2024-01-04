@@ -1,0 +1,1 @@
+<% tp.user.last_daily_note_content(tp) %>
